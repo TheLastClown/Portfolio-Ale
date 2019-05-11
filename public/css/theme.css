@@ -2919,11 +2919,11 @@ a {
   }
   .imageblock .imageblock__content {
     position: relative;
-    min-height: 18.57142857em;
+    min-height: 35em;
   }
   .imageblock > .container,
   .imageblock > div[class*='col-']:not(.imageblock__content) {
-    padding-top: 5.57142857em;
+    padding-top: 1em;
     padding-bottom: 5.57142857em;
     float: none;
     overflow: hidden;

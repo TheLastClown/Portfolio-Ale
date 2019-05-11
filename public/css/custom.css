@@ -50,6 +50,7 @@ a.item-text {
 
 a.item-text-dark {
     color: #252525 !important;
+    font-size: 18px;
 }
 
 /* Texto de identidad */
@@ -101,10 +102,6 @@ div p.subtitle {
 img.img-list {
     object-fit: scale-down;
     height: 900px;
-}
-
-.img-profile-container {
-    
 }
 
 .image-profile {
