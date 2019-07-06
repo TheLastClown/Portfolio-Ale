@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /img
+Disallow: /js
+Disallow: /css
+Disallow: /fonts
+Allow: /about
+Allow: /index
+Allow: /404
+Allow: /robots.txt
+Allow: /sitemap.xml
