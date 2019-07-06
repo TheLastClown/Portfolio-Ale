@@ -8,3 +8,5 @@ Allow: /index
 Allow: /404
 Allow: /robots.txt
 Allow: /sitemap.xml
+
+Sitemap: https://malexcob.com/sitemap.xml
